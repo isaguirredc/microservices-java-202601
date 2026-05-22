@@ -5,6 +5,7 @@ public record ProductDTO(
         String description,
         String brand,
         String model,
+<<<<<<< HEAD
         Double currency,
         String price,
         Integer stock,
@@ -12,3 +13,13 @@ public record ProductDTO(
         Double convertedPrice,
         String requestedCurrency
 ) {}
+=======
+        String currency,
+        Double price,
+        Integer stock,
+        Double convertedPrice,
+        String environment,
+        String requestCurrency
+) {
+}
+>>>>>>> 63fd536 (última atualização)

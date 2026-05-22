@@ -17,6 +17,7 @@ public class ProductEntity {
     private Double price;
     private Integer stock;
 
+<<<<<<< HEAD
     public ProductEntity() {}
 
     public Long getId() { return id; }
@@ -34,4 +35,61 @@ public class ProductEntity {
     public void setCurrency(String currency) { this.currency = currency; }
     public void setPrice(Double price) { this.price = price; }
     public void setStock(Integer stock) { this.stock = stock; }
+=======
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
+    public String getCurrency() {
+        return currency;
+    }
+
+    public void setCurrency(String currency) {
+        this.currency = currency;
+    }
+
+    public Double getPrice() {
+        return price;
+    }
+
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+
+    public Integer getStock() {
+        return stock;
+    }
+
+    public void setStock(Integer stock) {
+        this.stock = stock;
+    }
+>>>>>>> 63fd536 (última atualização)
 }

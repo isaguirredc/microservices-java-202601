@@ -10,4 +10,8 @@ class GreetingServiceApplicationTests {
     void contextLoads() {
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 63fd536 (última atualização)

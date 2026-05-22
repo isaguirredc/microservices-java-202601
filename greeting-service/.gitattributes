@@ -1,2 +1,6 @@
 /mvnw text eol=lf
+<<<<<<< HEAD
 *.cmd text eol=crlf
+=======
+*.cmd text eol=crlf
+>>>>>>> 63fd536 (última atualização)

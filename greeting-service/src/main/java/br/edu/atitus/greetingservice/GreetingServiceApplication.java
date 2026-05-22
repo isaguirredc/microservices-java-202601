@@ -10,4 +10,8 @@ public class GreetingServiceApplication {
         SpringApplication.run(GreetingServiceApplication.class, args);
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 63fd536 (última atualização)
