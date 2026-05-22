@@ -45,7 +45,7 @@ Cada microserviço segue o mesmo padrão arquitetural:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/microservices-java-202601e.git
+git clone https://github.com/seu-usuario/microservices-java-202601.git
 ```
 
 * Importar como projeto Maven
@@ -61,6 +61,3 @@ git clone https://github.com/seu-usuario/microservices-java-202601e.git
 ## Responsável
 
 Isadora Aguirre Dal Conte — RA: 1136123
-=======
-# projeto-sexta
->>>>>>> 63fd536 (última atualização)
