@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Microservices Java
 
 Projeto desenvolvido no curso de Ciência da Computação na ATITUS Educação.
